@@ -5,7 +5,8 @@
 第一周
 
 第一天：周三Spend the day learning HTML and CSS fundamentals, and JavaScript basics.
-
+前端学习资源
+https://www.freecodecamp.org/news/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41/
 第二天：周四Create a simple web page using HTML, CSS, and JavaScript to practice.
 
 第三天：周五Learn a modern frontend framework such as React or Angular.
