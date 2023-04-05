@@ -1,4 +1,4 @@
-# web-dev-study-notes
+# web-dev-projects
 
 
 
