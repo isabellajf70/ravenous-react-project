@@ -4,27 +4,27 @@
 
 第一周
 
-周三Spend the day learning HTML and CSS fundamentals, and JavaScript basics.
+第一天：周三Spend the day learning HTML and CSS fundamentals, and JavaScript basics.
 
-周四Create a simple web page using HTML, CSS, and JavaScript to practice.
+第二天：周四Create a simple web page using HTML, CSS, and JavaScript to practice.
 
-周五Learn a modern frontend framework such as React or Angular.
+第三天：周五Learn a modern frontend framework such as React or Angular.
 
-周六Create a small project using the framework you learned to practice.
+第四天：周六Create a small project using the framework you learned to practice.
 
-周天Flask or Django.
+第五天：周天Flask or Django.
 
 
 第二周 
 
-周一Build a small web application using Flask or Django and connect it to a database.
+第六天：周一Build a small web application using Flask or Django and connect it to a database.
 
-周二AWS 
+第七天：周二AWS 
 
-周三 portfolio
+第八天：周三 portfolio
 
-周四 portfolio
+第九天：周四 portfolio
 
-周五 portfolio
+第十天：周五 portfolio
 
 
